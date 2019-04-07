@@ -1,0 +1,12 @@
+{
+  "indexes": [
+    {
+      "collectionGroup":"answers",
+      "fields":[
+        {"fieldPath":"uid","mode":"ASCENDING"},
+        {"fieldPath":"name","mode":"ASCENDING"}
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

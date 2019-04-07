@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "933028870179",
+    "firebase_url": "https://companionbeta.firebaseio.com",
+    "project_id": "companionbeta",
+    "storage_bucket": "companionbeta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933028870179:android:ede06df604d42475",
+        "android_client_info": {
+          "package_name": "com.example.companion_beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933028870179-5621olt9nqtj2qoum33vob1s1e60bphu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.companion_beta",
+            "certificate_hash": "daa91a67ba9b33daa6fe0d9e93a86aea6a89e727"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoJdK4U3y26zSlyxSi5Y4FvFh3jC6_Lx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933028870179-m63i7np2snrovg20tfche8cd8trdj8ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
